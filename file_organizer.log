@@ -1,0 +1,47 @@
+2026-04-28 21:40:09,868 - INFO - Started organizing directory: Example 1 | Dry run: True
+2026-04-28 21:40:09,887 - INFO - [DRY_RUN] Move: Example 1\13434217 - Assessment 2.exe -> Example 1\Executables\13434217 - Assessment 2.exe
+2026-04-28 21:40:09,888 - INFO - [DRY_RUN] Move: Example 1\13434217 - Assessment 2.pdb -> Example 1\Others\13434217 - Assessment 2.pdb
+2026-04-28 21:40:09,891 - INFO - [DRY_RUN] Move: Example 1\13434217 - Assessment 2.sln -> Example 1\Others\13434217 - Assessment 2.sln
+2026-04-28 21:40:09,895 - INFO - [DRY_RUN] Move: Example 1\13434217 - Assessment 2.vcxproj -> Example 1\Others\13434217 - Assessment 2.vcxproj
+2026-04-28 21:40:09,895 - INFO - [DRY_RUN] Move: Example 1\13434217 - Assessment 2.vcxproj.filters -> Example 1\Others\13434217 - Assessment 2.vcxproj.filters
+2026-04-28 21:40:09,899 - INFO - [DRY_RUN] Move: Example 1\13434217 - Assessment 2.vcxproj.user -> Example 1\Others\13434217 - Assessment 2.vcxproj.user
+2026-04-28 21:40:09,899 - INFO - [DRY_RUN] Move: Example 1\13434217-COS3712-A2-Part1.pdf -> Example 1\Documents\13434217-COS3712-A2-Part1.pdf
+2026-04-28 21:40:09,906 - INFO - [DRY_RUN] Move: Example 1\13434217-COS3712-A4-Part2.pdf -> Example 1\Documents\13434217-COS3712-A4-Part2.pdf
+2026-04-28 21:40:09,909 - INFO - [DRY_RUN] Move: Example 1\freeglut.dll -> Example 1\Others\freeglut.dll
+2026-04-28 21:40:09,915 - INFO - [DRY_RUN] Move: Example 1\glass_panel.jpg -> Example 1\Images\glass_panel.jpg
+2026-04-28 21:40:09,918 - INFO - [DRY_RUN] Move: Example 1\main.cpp -> Example 1\Others\main.cpp
+2026-04-28 21:40:09,923 - INFO - [DRY_RUN] Move: Example 1\NormalMap.png -> Example 1\Images\NormalMap.png
+2026-04-28 21:40:09,929 - INFO - [DRY_RUN] Move: Example 1\stb_image.h -> Example 1\Others\stb_image.h
+2026-04-28 21:40:09,929 - INFO - Dry run completed. No files were moved.
+2026-04-28 21:41:14,299 - INFO - Started organizing directory: Example 1 | Dry run: True
+2026-04-28 21:41:14,314 - INFO - [DRY_RUN] Move: Example 1\13434217 - Assessment 2.exe -> Example 1\Executables\13434217 - Assessment 2.exe
+2026-04-28 21:41:14,314 - INFO - [DRY_RUN] Move: Example 1\13434217 - Assessment 2.pdb -> Example 1\Others\13434217 - Assessment 2.pdb
+2026-04-28 21:41:14,316 - INFO - [DRY_RUN] Move: Example 1\13434217 - Assessment 2.sln -> Example 1\Others\13434217 - Assessment 2.sln
+2026-04-28 21:41:14,318 - INFO - [DRY_RUN] Move: Example 1\13434217 - Assessment 2.vcxproj -> Example 1\Others\13434217 - Assessment 2.vcxproj
+2026-04-28 21:41:14,320 - INFO - [DRY_RUN] Move: Example 1\13434217 - Assessment 2.vcxproj.filters -> Example 1\Others\13434217 - Assessment 2.vcxproj.filters
+2026-04-28 21:41:14,322 - INFO - [DRY_RUN] Move: Example 1\13434217 - Assessment 2.vcxproj.user -> Example 1\Others\13434217 - Assessment 2.vcxproj.user
+2026-04-28 21:41:14,322 - INFO - [DRY_RUN] Move: Example 1\13434217-COS3712-A2-Part1.pdf -> Example 1\Documents\13434217-COS3712-A2-Part1.pdf
+2026-04-28 21:41:14,324 - INFO - [DRY_RUN] Move: Example 1\13434217-COS3712-A4-Part2.pdf -> Example 1\Documents\13434217-COS3712-A4-Part2.pdf
+2026-04-28 21:41:14,325 - INFO - [DRY_RUN] Move: Example 1\freeglut.dll -> Example 1\Others\freeglut.dll
+2026-04-28 21:41:14,325 - INFO - [DRY_RUN] Move: Example 1\glass_panel.jpg -> Example 1\Images\glass_panel.jpg
+2026-04-28 21:41:14,329 - INFO - [DRY_RUN] Move: Example 1\main.cpp -> Example 1\Others\main.cpp
+2026-04-28 21:41:14,333 - INFO - [DRY_RUN] Move: Example 1\NormalMap.png -> Example 1\Images\NormalMap.png
+2026-04-28 21:41:14,334 - INFO - [DRY_RUN] Move: Example 1\stb_image.h -> Example 1\Others\stb_image.h
+2026-04-28 21:41:14,334 - INFO - Dry run completed. No files were moved.
+2026-04-28 21:41:27,706 - ERROR - Invalid time format: 2332
+2026-04-28 21:41:44,557 - ERROR - Invalid directory: Example1
+2026-04-28 21:42:28,370 - INFO - Started organizing directory: Example 1 | Dry run: True
+2026-04-28 21:42:28,382 - INFO - [DRY_RUN] Move: Example 1\13434217 - Assessment 2.exe -> Example 1\Executables\13434217 - Assessment 2.exe
+2026-04-28 21:42:28,384 - INFO - [DRY_RUN] Move: Example 1\13434217 - Assessment 2.pdb -> Example 1\Others\13434217 - Assessment 2.pdb
+2026-04-28 21:42:28,386 - INFO - [DRY_RUN] Move: Example 1\13434217 - Assessment 2.sln -> Example 1\Others\13434217 - Assessment 2.sln
+2026-04-28 21:42:28,389 - INFO - [DRY_RUN] Move: Example 1\13434217 - Assessment 2.vcxproj -> Example 1\Others\13434217 - Assessment 2.vcxproj
+2026-04-28 21:42:28,391 - INFO - [DRY_RUN] Move: Example 1\13434217 - Assessment 2.vcxproj.filters -> Example 1\Others\13434217 - Assessment 2.vcxproj.filters
+2026-04-28 21:42:28,395 - INFO - [DRY_RUN] Move: Example 1\13434217 - Assessment 2.vcxproj.user -> Example 1\Others\13434217 - Assessment 2.vcxproj.user
+2026-04-28 21:42:28,395 - INFO - [DRY_RUN] Move: Example 1\13434217-COS3712-A2-Part1.pdf -> Example 1\Documents\13434217-COS3712-A2-Part1.pdf
+2026-04-28 21:42:28,398 - INFO - [DRY_RUN] Move: Example 1\13434217-COS3712-A4-Part2.pdf -> Example 1\Documents\13434217-COS3712-A4-Part2.pdf
+2026-04-28 21:42:28,405 - INFO - [DRY_RUN] Move: Example 1\freeglut.dll -> Example 1\Others\freeglut.dll
+2026-04-28 21:42:28,410 - INFO - [DRY_RUN] Move: Example 1\glass_panel.jpg -> Example 1\Images\glass_panel.jpg
+2026-04-28 21:42:28,414 - INFO - [DRY_RUN] Move: Example 1\main.cpp -> Example 1\Others\main.cpp
+2026-04-28 21:42:28,416 - INFO - [DRY_RUN] Move: Example 1\NormalMap.png -> Example 1\Images\NormalMap.png
+2026-04-28 21:42:28,421 - INFO - [DRY_RUN] Move: Example 1\stb_image.h -> Example 1\Others\stb_image.h
+2026-04-28 21:42:28,421 - INFO - Dry run completed. No files were moved.
